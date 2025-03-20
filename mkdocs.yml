@@ -3,6 +3,6 @@ theme:
   name: material
 
 nav:
-  - Home: index.md
-  - Atividade 1: atv1.md
-  - Referências: ref.md  # Exemplo de mais uma página
+   - Home: index.md
+   - Atividade 1: atv1.md
+   - Referências: ref.md  # Exemplo de mais uma página
