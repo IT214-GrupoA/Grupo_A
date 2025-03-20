@@ -3,8 +3,8 @@ site_name: Meu Site Docs
 #site_url: https://seu-usuario.github.io/seu-repositorio/
 #repo_url: https://github.com/seu-usuario/seu-repositorio
 
-#theme:
-#  name: readthedocs
+theme:
+  name: material
 
 nav:
   - Home: index.md
