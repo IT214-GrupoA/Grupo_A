@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: Meu Site MkDocs
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Atividade 1: atv1.md
+  - Referências: ref.md  # Exemplo de mais uma página
