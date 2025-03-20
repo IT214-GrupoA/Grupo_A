@@ -1,8 +1,15 @@
-site_name: SITE!
+site_name: Meu Site Docs
+site_dir: docs
+site_url: https://seu-usuario.github.io/seu-repositorio/
+repo_url: https://github.com/seu-usuario/seu-repositorio
+
 theme:
-  name: material
+  name: readthedocs
 
 nav:
-   - Home: index.md
-   - Atividade 1: atv1.md
-   - Referências: ref.md  # Exemplo de mais uma página
+  - Home: index.md
+  - Sobre: sobre.md
+  - Contato: contato.md
+
+plugins:
+  - search
